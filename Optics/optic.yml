@@ -1,0 +1,5 @@
+name: "Optics"
+tasks:
+  start:
+     command: "node server.js"
+     inboundUrl: http://localhost:4000
